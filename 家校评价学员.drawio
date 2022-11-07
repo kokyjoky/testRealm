@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-07T03:23:17.263Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="Cg5agSTiwr9JdSjOIiRW" version="20.5.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-11-07T03:25:01.919Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="E6bJWXk7pLrr_1nElojR" version="20.5.1" type="github" pages="2">
   <diagram id="8_zKDs2NcV0j2BOOCldE" name="第 2 页">
     <mxGraphModel dx="827" dy="1995" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -192,23 +192,29 @@
         <mxCell id="V6BxBsEYJZl0AVlnk3J6-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="V6BxBsEYJZl0AVlnk3J6-36" source="V6BxBsEYJZl0AVlnk3J6-38" target="V6BxBsEYJZl0AVlnk3J6-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="V6BxBsEYJZl0AVlnk3J6-38" value="查看电子问卷" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="V6BxBsEYJZl0AVlnk3J6-36">
-          <mxGeometry x="90" y="139" width="120" height="60" as="geometry" />
+        <mxCell id="V6BxBsEYJZl0AVlnk3J6-38" value="新增成长记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="V6BxBsEYJZl0AVlnk3J6-36">
+          <mxGeometry x="90" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="V6BxBsEYJZl0AVlnk3J6-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="V6BxBsEYJZl0AVlnk3J6-36" source="V6BxBsEYJZl0AVlnk3J6-39" target="V6BxBsEYJZl0AVlnk3J6-40">
+        <mxCell id="V6BxBsEYJZl0AVlnk3J6-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#FF3333;" edge="1" parent="V6BxBsEYJZl0AVlnk3J6-36" source="V6BxBsEYJZl0AVlnk3J6-39" target="V6BxBsEYJZl0AVlnk3J6-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="V6BxBsEYJZl0AVlnk3J6-39" value="填写电子问卷" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="V6BxBsEYJZl0AVlnk3J6-36">
-          <mxGeometry x="90" y="238" width="120" height="60" as="geometry" />
+        <mxCell id="V6BxBsEYJZl0AVlnk3J6-39" value="选择评价指标（&lt;font color=&quot;#ff3333&quot;&gt;家长&lt;/font&gt;）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="V6BxBsEYJZl0AVlnk3J6-36">
+          <mxGeometry x="90" y="201" width="120" height="59" as="geometry" />
         </mxCell>
         <mxCell id="V6BxBsEYJZl0AVlnk3J6-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="V6BxBsEYJZl0AVlnk3J6-36" source="V6BxBsEYJZl0AVlnk3J6-40" target="V6BxBsEYJZl0AVlnk3J6-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="V6BxBsEYJZl0AVlnk3J6-40" value="提交" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="V6BxBsEYJZl0AVlnk3J6-36">
-          <mxGeometry x="90" y="336" width="120" height="60" as="geometry" />
+          <mxGeometry x="90" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V6BxBsEYJZl0AVlnk3J6-41" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="V6BxBsEYJZl0AVlnk3J6-36">
           <mxGeometry x="95" y="440" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="V6BxBsEYJZl0AVlnk3J6-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#FF3333;" edge="1" parent="V6BxBsEYJZl0AVlnk3J6-36" source="V6BxBsEYJZl0AVlnk3J6-55" target="V6BxBsEYJZl0AVlnk3J6-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V6BxBsEYJZl0AVlnk3J6-55" value="补充成长记录信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="V6BxBsEYJZl0AVlnk3J6-36">
+          <mxGeometry x="90" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
